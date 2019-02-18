@@ -29,23 +29,23 @@
 ## 5. 项目截图
 
 
-1. 首页
+1.登录
 
 <img src="/picture/01login" width="450" height="800" alt="msite"/>
 
-2. 订单
+2.大神
 
 <img src="/picture/02dashen" width="450" height="800" alt="order"/>
 
-3. 搜索
+3.消息
 
 <img src="/picture/03liaotian" width="450" height="800" alt="search"/>
 
-4. 个人
+4.消息详情
 
 <img src="/picture/03xiaoxi" width="450" height="800" alt="profile"/>
 
-5. 登陆
+5.个人 
 
 <img src="/picture/t04uichu" width="450" height="800" alt="login"/>
 
