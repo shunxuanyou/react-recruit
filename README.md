@@ -31,21 +31,21 @@
 
 1.登录
 
-<img src="/picture/01login" width="450" height="800" alt="msite"/>
+<img src="/picture/01login" width="450" height="800" alt="login"/>
 
 2.大神
 
-<img src="/picture/02dashen" width="450" height="800" alt="order"/>
+<img src="/picture/02dashen" width="450" height="800" alt="dashen"/>
 
 3.消息
 
-<img src="/picture/03liaotian" width="450" height="800" alt="search"/>
+<img src="/picture/03liaotian" width="450" height="800" alt="xiaoxi"/>
 
 4.消息详情
 
-<img src="/picture/03xiaoxi" width="450" height="800" alt="profile"/>
+<img src="/picture/03xiaoxi" width="450" height="800" alt="xiaoxi"/>
 
 5.个人 
 
-<img src="/picture/t04uichu" width="450" height="800" alt="login"/>
+<img src="/picture/t04uichu" width="450" height="800" alt="uichu"/>
 
